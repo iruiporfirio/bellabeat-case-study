@@ -82,7 +82,7 @@ Durante a exploração dos dados foi identificado que os 33 participantes não p
 
 Foram realizados o cálculo e análise da média, mediana, mínimo, máximo, quartis e IQR, sendo esses últimos para a definição dos limites inferior e superior e identificar possíveis outliers.
 
-Nessa etapa, foi identificado que os valores categorizados como outliers, totalizando 12 registros (representando aproximadamente 1,28% do total de registros), e que embora apresentem valores elevandos não foram identificadas evidências suficientes para classificá-los como erros. Com isso, os registros foram preservados no conjunto utilizado para a análise.
+Nessa etapa, foi identificado que os valores categorizados como outliers, totalizando 12 registros (representando aproximadamente 1,28% do total de registros), e que embora apresentem valores elevados não foram identificadas evidências suficientes para classificá-los como erros. Com isso, os registros foram preservados no conjunto utilizado para a análise.
 
 ### Correlações
 
@@ -108,7 +108,7 @@ Resultando em uma diferença relativa positiva de, aproximadamente, 8,92%
 
 Utilizada a técnica de comparação pareada dos 21 participantes nos dias 12/04 e 12/05 para analisar sobre o impacto da diferença na composição para verificar se o registro apenas dos participantes das duas datas poderia explicar a redução observada na média de passos.
 
-A comparação identificou uma redução de 62,22%, indicando que a apenas mudança na composição da amostra não justifica a queda na média, o descarte de registros incompletos ou outras particularidades das datas analisadas.
+A comparação identificou uma redução de 62,22%, indicando que a apenas mudança na composição da amostra não explica isoladamente a queda na média de passos. Com essa comparação, foi definido que não é possível descartar a influência de registros incompletos ou outras particularidades das datas analisadas.
 
 ## 6. Principais resultados
 
